@@ -1,67 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" fill="none">
   <defs>
-    <linearGradient id="bg" x1="25" y1="8" x2="1179" y2="359" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B0B12"/>
-      <stop offset=".54" stop-color="#10101B"/>
-      <stop offset="1" stop-color="#07111A"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080812"/>
+      <stop offset=".52" stop-color="#111027"/>
+      <stop offset="1" stop-color="#061923"/>
+      <animate attributeName="x2" values="1200;900;1200" dur="12s" repeatCount="indefinite"/>
     </linearGradient>
-    <linearGradient id="edge" x1="44" y1="307" x2="764" y2="23" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6"/>
-      <stop offset=".53" stop-color="#6366F1"/>
+    <linearGradient id="neon" x1="80" y1="80" x2="1100" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A855F7"/>
+      <stop offset=".48" stop-color="#6366F1"/>
       <stop offset="1" stop-color="#22D3EE"/>
+      <animate attributeName="x1" values="80;300;80" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
-    <linearGradient id="name" x1="65" y1="130" x2="590" y2="198" gradientUnits="userSpaceOnUse">
+    <linearGradient id="title" x1="85" y1="130" x2="690" y2="220" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF"/>
-      <stop offset=".72" stop-color="#E9E7FF"/>
-      <stop offset="1" stop-color="#A5F3FC"/>
+      <stop offset=".55" stop-color="#DDD6FE"/>
+      <stop offset="1" stop-color="#67E8F9"/>
     </linearGradient>
-    <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="matrix(-306 211 -147 -213 1072 84)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4F46E5" stop-opacity=".28"/>
-      <stop offset="1" stop-color="#4F46E5" stop-opacity="0"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(-330 240 -190 -260 1020 90)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#C4B5FD" stroke-opacity=".055"/>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#C4B5FD" stroke-opacity=".07"/>
     </pattern>
-    <clipPath id="frame">
-      <rect width="1200" height="360" rx="20"/>
-    </clipPath>
+    <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+    <clipPath id="clip"><rect width="1200" height="430" rx="24"/></clipPath>
   </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
-    <rect width="1200" height="360" fill="url(#grid)"/>
-    <rect width="1200" height="360" fill="url(#aura)"/>
-    <rect x="1" y="1" width="1198" height="358" rx="19" stroke="#FFFFFF" stroke-opacity=".12"/>
-    <path d="M48 40V320" stroke="url(#edge)" stroke-width="2"/>
-    <path d="M48 315H606" stroke="url(#edge)" stroke-opacity=".44"/>
-    <circle cx="1007" cy="126" r="151" stroke="#8B5CF6" stroke-opacity=".11"/>
-    <circle cx="1007" cy="126" r="111" stroke="#22D3EE" stroke-opacity=".12"/>
-    <circle cx="1007" cy="126" r="72" stroke="#8B5CF6" stroke-opacity=".14"/>
-    <circle cx="1127" cy="73" r="3" fill="#22D3EE"/>
-    <circle cx="900" cy="259" r="2.5" fill="#A78BFA"/>
-    <circle cx="1087" cy="258" r="2.5" fill="#67E8F9"/>
-    <g>
-      <rect x="833" y="87" width="288" height="184" rx="13" fill="#090C14" fill-opacity=".92" stroke="#A5B4FC" stroke-opacity=".28"/>
-      <path d="M833.5 124.5H1120.5" stroke="#FFFFFF" stroke-opacity=".12"/>
-      <circle cx="854" cy="106" r="4" fill="#FB7185"/>
-      <circle cx="869" cy="106" r="4" fill="#FBBF24"/>
-      <circle cx="884" cy="106" r="4" fill="#34D399"/>
-      <text x="905" y="110" fill="#78839A" font-family="Consolas, monospace" font-size="10">web / ideas.js</text>
-      <text x="856" y="154" fill="#A78BFA" font-family="Consolas, monospace" font-size="13">const</text>
-      <text x="900" y="154" fill="#67E8F9" font-family="Consolas, monospace" font-size="13">direction</text>
-      <text x="972" y="154" fill="#CBD5E1" font-family="Consolas, monospace" font-size="13">= {</text>
-      <text x="874" y="181" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">build:</text>
-      <text x="923" y="181" fill="#F0ABFC" font-family="Consolas, monospace" font-size="12">'for people'</text>
-      <text x="874" y="207" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">learn:</text>
-      <text x="923" y="207" fill="#67E8F9" font-family="Consolas, monospace" font-size="12">'by building'</text>
-      <text x="856" y="234" fill="#CBD5E1" font-family="Consolas, monospace" font-size="13">}</text>
-      <path d="M874 249H1011" stroke="url(#edge)" stroke-width="2" stroke-linecap="round" stroke-opacity=".8"/>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="430" fill="url(#bg)"/>
+    <rect width="1200" height="430" fill="url(#grid)"/>
+    <ellipse cx="1010" cy="110" rx="230" ry="180" fill="#7C3AED" opacity=".18" filter="url(#blur)">
+      <animate attributeName="cx" values="1010;930;1010" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+    <rect width="1200" height="430" fill="url(#glow)"/>
+    <rect x="1" y="1" width="1198" height="428" rx="23" stroke="url(#neon)" stroke-opacity=".7" stroke-width="2"/>
+    <path d="M50 60V370" stroke="url(#neon)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M50 370H690" stroke="url(#neon)" stroke-opacity=".45"/>
+    <g opacity=".75">
+      <circle cx="1010" cy="200" r="158" stroke="#8B5CF6" stroke-opacity=".38" stroke-width="1.5"/>
+      <circle cx="1010" cy="200" r="120" stroke="#22D3EE" stroke-opacity=".34" stroke-width="1.5"/>
+      <circle cx="1010" cy="200" r="82" stroke="#A78BFA" stroke-opacity=".34" stroke-width="1.5"/>
+      <circle cx="1010" cy="42" r="5" fill="#22D3EE">
+        <animateMotion dur="9s" repeatCount="indefinite" path="M0 0 A158 158 0 1 1 -0.1 0"/>
+      </circle>
+      <circle cx="1010" cy="80" r="4" fill="#C084FC">
+        <animateMotion dur="6s" repeatCount="indefinite" path="M0 0 A120 120 0 1 0 0.1 0"/>
+      </circle>
     </g>
-    <text x="78" y="79" fill="#A5B4FC" font-family="Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.2">CREATIVE WEB DEVELOPMENT  /  01</text>
-    <text x="73" y="165" fill="url(#name)" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Rajyavardhan Singh</text>
-    <text x="78" y="207" fill="#D1D5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">Web Developer · WordPress &amp; Shopify</text>
-    <text x="78" y="241" fill="#8F98AA" font-family="Segoe UI, Arial, sans-serif" font-size="15">Building useful web experiences. Learning what's next.</text>
-    <rect x="78" y="269" width="144" height="27" rx="13.5" fill="#8B5CF6" fill-opacity=".12" stroke="#A78BFA" stroke-opacity=".25"/>
-    <circle cx="94" cy="282.5" r="4" fill="#22D3EE"/>
-    <text x="106" y="286" fill="#DDD6FE" font-family="Consolas, monospace" font-size="10" font-weight="600" letter-spacing=".8">OPEN TO IDEAS</text>
+    <g transform="translate(815 112)">
+      <rect width="300" height="205" rx="16" fill="#080B16" fill-opacity=".92" stroke="url(#neon)" stroke-opacity=".7"/>
+      <path d="M0 43H300" stroke="#FFFFFF" stroke-opacity=".13"/>
+      <circle cx="22" cy="22" r="5" fill="#FB7185"/>
+      <circle cx="40" cy="22" r="5" fill="#FBBF24"/>
+      <circle cx="58" cy="22" r="5" fill="#34D399"/>
+      <text x="82" y="26" fill="#94A3B8" font-family="monospace" font-size="11">developer.js</text>
+      <text x="24" y="78" fill="#C084FC" font-family="monospace" font-size="15">const</text>
+      <text x="84" y="78" fill="#67E8F9" font-family="monospace" font-size="15">developer</text>
+      <text x="174" y="78" fill="#E2E8F0" font-family="monospace" font-size="15">= {</text>
+      <text x="43" y="111" fill="#94A3B8" font-family="monospace" font-size="13">craft:</text>
+      <text x="103" y="111" fill="#F0ABFC" font-family="monospace" font-size="13">'websites'</text>
+      <text x="43" y="140" fill="#94A3B8" font-family="monospace" font-size="13">stack:</text>
+      <text x="103" y="140" fill="#67E8F9" font-family="monospace" font-size="13">'WordPress + Shopify'</text>
+      <text x="43" y="169" fill="#94A3B8" font-family="monospace" font-size="13">mindset:</text>
+      <text x="119" y="169" fill="#F0ABFC" font-family="monospace" font-size="13">'always learning'</text>
+      <text x="24" y="190" fill="#E2E8F0" font-family="monospace" font-size="15">}</text>
+      <rect x="261" y="176" width="8" height="16" rx="2" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <text x="82" y="91" fill="#A5B4FC" font-family="monospace" font-size="13" font-weight="700" letter-spacing="3">CREATIVE DEVELOPER  /  PORTFOLIO</text>
+    <text x="76" y="188" fill="url(#title)" font-family="Arial, sans-serif" font-size="59" font-weight="700" letter-spacing="-2">Rajyavardhan Singh</text>
+    <text x="82" y="235" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="22">Web Developer <tspan fill="#A78BFA">·</tspan> WordPress <tspan fill="#22D3EE">·</tspan> Shopify</text>
+    <text x="82" y="273" fill="#A5B4C5" font-family="Arial, sans-serif" font-size="17">I build for the web, experiment with ideas, and keep learning.</text>
+    <rect x="82" y="311" width="164" height="36" rx="18" fill="#7C3AED" fill-opacity=".18" stroke="#A78BFA" stroke-opacity=".65"/>
+    <circle cx="102" cy="329" r="5" fill="#34D399">
+      <animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="117" y="334" fill="#E9D5FF" font-family="monospace" font-size="11" font-weight="700" letter-spacing="1">OPEN TO BUILD</text>
+    <text x="82" y="390" fill="#64748B" font-family="monospace" font-size="11" letter-spacing="2">HTML  /  CSS  /  JS  /  E-COMMERCE</text>
   </g>
 </svg>
