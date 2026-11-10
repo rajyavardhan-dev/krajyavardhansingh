@@ -3,41 +3,39 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=WordPress+%26+Shopify+Developer;Building+responsive+web+experiences;Currently+learning+JavaScript+and+full-stack+development" alt="Typing introduction" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=WordPress+%26+Shopify+Developer;Building+responsive+websites;Learning+JavaScript+and+full-stack+development" alt="Typing introduction" /></a>
 </p>
 
-## About me
+## About
 
-I'm a web developer from India who enjoys building websites that are clean, responsive and easy to use.
+I'm a web developer from India. I build and customize websites for businesses and online stores, with a focus on clean layouts, responsive design and practical functionality.
 
-I work with **WordPress** and **Shopify**, creating business websites, landing pages and eCommerce stores. I also customize themes and use HTML, CSS, JavaScript and Liquid to improve website functionality and design.
+I have experience working with WordPress and Shopify, including Elementor, WooCommerce and Liquid. I'm currently strengthening my JavaScript skills and working towards full-stack development.
 
-At the moment, I'm focused on getting stronger at JavaScript and growing into full-stack development.
-
-## What I work with
+## Skills & tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, WordPress, Git, GitHub and VS Code" />
 </p>
 
-**Platforms & tools:** Shopify · WooCommerce · Elementor · Liquid · Responsive Web Design
+**Also work with:** Shopify · WooCommerce · Elementor · Liquid · Responsive Web Design
 
 ## Projects
 
-I'm currently rebuilding my public project portfolio. New applications will be added here once they are complete, tested and documented.
+I'm rebuilding my public portfolio and focusing on projects that demonstrate real functionality, clean code and practical use cases. I'll add projects here as they are finished and documented.
 
-## What I'm learning now
+## Currently learning
 
 - JavaScript fundamentals and problem solving
-- Building projects with modern frontend tools
+- Modern frontend development
 - Backend development and full-stack concepts
 
-## Find me
+## Connect
 
 [GitHub](https://github.com/khalinaGamer) · [LinkedIn](https://www.linkedin.com/in/rajyavardhan-singh-240a4a22a/) · [Instagram](https://www.instagram.com/vardhan_r_a_j/)
 
 ---
 
 <p align="center">
-  <i>Thanks for stopping by. I'm always learning and building something new.</i>
+  <i>Always learning, building and improving.</i>
 </p>
