@@ -103,7 +103,11 @@ A collection of small exercises covering JavaScript fundamentals, including vari
 </p>
 
 <p align="center">
-  <a href="https://github.com/khalinaGamer?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31">View my GitHub profile and contribution activity ↗</a>
+  <img src="https://raw.githubusercontent.com/khalinaGamer/khalinaGamer/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/khalinaGamer?tab=overview">View my GitHub profile and contribution activity ↗</a>
 </p>
 
 <sub>Statistics cards are provided by external services and may occasionally be unavailable. GitHub's own profile page is the source of truth for contribution activity.</sub>
