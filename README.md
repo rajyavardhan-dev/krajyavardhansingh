@@ -3,27 +3,48 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/khalinaGamer"><img src="https://img.shields.io/badge/GITHUB-340055?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/rajyavardhan-singh-240a4a22a/"><img src="https://img.shields.io/badge/LINKEDIN-340055?style=for-the-badge&logo=linkedin&logoColor=E9D5FF" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/vardhan_r_a_j/"><img src="https://img.shields.io/badge/INSTAGRAM-340055?style=for-the-badge&logo=instagram&logoColor=E9D5FF" alt="Instagram" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=WordPress+%26+Shopify+Developer;Building+responsive+web+experiences;Currently+learning+JavaScript+and+full-stack+development" alt="Typing introduction" /></a>
 </p>
+
+## About me
+
+I'm a web developer from India who enjoys building websites that are clean, responsive and easy to use.
+
+I work with **WordPress** and **Shopify**, creating business websites, landing pages and eCommerce stores. I also customize themes and use HTML, CSS, JavaScript and Liquid to improve website functionality and design.
+
+At the moment, I'm focused on getting stronger at JavaScript and growing into full-stack development.
+
+## What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, WordPress, Git, GitHub and VS Code" />
+</p>
+
+**Platforms & tools:** Shopify · WooCommerce · Elementor · Liquid · Responsive Web Design
+
+## Selected projects
+
+**[Food Location](https://github.com/khalinaGamer/school/blob/main/mobile.html)**  
+A restaurant discovery interface with cuisine filters, ratings, reviews and distance sorting. Built with HTML, CSS and JavaScript.
+
+**[Student Records Archive](https://github.com/khalinaGamer/school/blob/main/site.html)**  
+A browser-based student record manager with IndexedDB, record organization, and CSV/JSON import and export.
+
+**[JavaScript Practice](https://github.com/khalinaGamer/school)**  
+A collection of hands-on exercises covering variables, conditions, loops, arrays, objects and problem-solving fundamentals.
+
+## What I'm learning now
+
+- JavaScript fundamentals and problem solving
+- Building projects with modern frontend tools
+- Backend development and full-stack concepts
+
+## Find me
+
+[GitHub](https://github.com/khalinaGamer) · [LinkedIn](https://www.linkedin.com/in/rajyavardhan-singh-240a4a22a/) · [Instagram](https://www.instagram.com/vardhan_r_a_j/)
+
+---
 
 <p align="center">
-  <img src="assets/profile-panels.svg" width="100%" alt="Glassmorphism portfolio panels showing about me, toolkit and selected projects" />
+  <i>Thanks for stopping by. I'm always learning and building something new.</i>
 </p>
-
-<p align="center">
-  **Project source:** [Food Location](https://github.com/khalinaGamer/school/blob/main/mobile.html) · [Student Records Archive](https://github.com/khalinaGamer/school/blob/main/site.html) · [JavaScript Practice](https://github.com/khalinaGamer/school)
-</p>
-
-<p align="center">
-  <a href="https://github.com/khalinaGamer?tab=repositories">Explore repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/khalinaGamer?tab=overview">GitHub activity</a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khalinaGamer/khalinaGamer/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution graph" />
-</p>
-
-<p align="center"><i>Curious by default. Building one project at a time.</i></p>
