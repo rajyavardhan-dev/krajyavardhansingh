@@ -105,12 +105,20 @@ I'm building stronger JavaScript foundations and learning React, with full-stack
 
 ## Connect
 
-I'm easiest to reach through [GitHub](https://github.com/khalinaGamer). Browse the repositories to follow along with what I'm building and learning.
+I'm easiest to reach through GitHub or LinkedIn. I also share updates on Instagram.
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/github/C9D1D9" alt="" height="22" />
+  <a href="https://github.com/khalinaGamer">
+    <img src="https://img.shields.io/badge/GitHub-171923?style=for-the-badge&amp;logo=github&amp;logoColor=C9D1D9" alt="GitHub" />
+  </a>
   &nbsp;
-  <a href="https://github.com/khalinaGamer"><strong>khalinaGamer</strong></a>
-  <br /><br />
-  <sub>Curious by default. Building one project at a time.</sub>
+  <a href="https://www.linkedin.com/in/rajyavardhan-singh-240a4a22a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/vardhan_r_a_j/">
+    <img src="https://img.shields.io/badge/Instagram-171923?style=for-the-badge&amp;logo=instagram&amp;logoColor=E879F9" alt="Instagram" />
+  </a>
 </p>
+
+<p align="center"><sub>Curious by default. Building one project at a time.</sub></p>
