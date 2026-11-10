@@ -22,16 +22,9 @@ At the moment, I'm focused on getting stronger at JavaScript and growing into fu
 
 **Platforms & tools:** Shopify · WooCommerce · Elementor · Liquid · Responsive Web Design
 
-## Selected projects
+## Projects
 
-**[Food Location](https://github.com/khalinaGamer/school/blob/main/mobile.html)**  
-A restaurant discovery interface with cuisine filters, ratings, reviews and distance sorting. Built with HTML, CSS and JavaScript.
-
-**[Student Records Archive](https://github.com/khalinaGamer/school/blob/main/site.html)**  
-A browser-based student record manager with IndexedDB, record organization, and CSV/JSON import and export.
-
-**[JavaScript Practice](https://github.com/khalinaGamer/school)**  
-A collection of hands-on exercises covering variables, conditions, loops, arrays, objects and problem-solving fundamentals.
+I'm currently rebuilding my public project portfolio. New applications will be added here once they are complete, tested and documented.
 
 ## What I'm learning now
 
