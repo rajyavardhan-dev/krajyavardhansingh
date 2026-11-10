@@ -14,8 +14,6 @@
   <a href="https://github.com/khalinaGamer/school">Selected work</a>
 </p>
 
-<br />
-
 ## About
 
 I'm **Rajyavardhan Singh**, a web developer with **6+ months of experience**, currently working with WordPress and Shopify. I care about clear, responsive interfaces and enjoy turning practical ideas into useful web experiences.
@@ -52,30 +50,17 @@ My current direction is deliberate: strengthen my JavaScript foundations, keep b
 
 ## Selected work
 
-<table>
-  <tbody>
-    <tr>
-      <td width="50%" valign="top">
-        <strong><a href="https://github.com/khalinaGamer/school/blob/main/mobile.html">Food Location</a></strong>
-        <br /><br />
-        A responsive restaurant-discovery concept with cuisine filters, ratings, reviews, distance cues, and a rule-based demo assistant. Uses sample restaurant data.
-        <br /><br />
-        <sub>HTML · CSS · JavaScript</sub>
-        <br />
-        <sub><a href="https://github.com/khalinaGamer/school/blob/main/mobile.html">View source ↗</a></sub>
-      </td>
-      <td width="50%" valign="top">
-        <strong><a href="https://github.com/khalinaGamer/school/blob/main/site.html">Student Records Archive</a></strong>
-        <br /><br />
-        A browser-based records manager with IndexedDB storage, student organization, CSV/JSON import, CSV export, and a persistent theme preference.
-        <br /><br />
-        <sub>HTML · CSS · JavaScript · IndexedDB</sub>
-        <br />
-        <sub><a href="https://github.com/khalinaGamer/school/blob/main/site.html">View source ↗</a></sub>
-      </td>
-    </tr>
-  </tbody>
-</table>
+> **[Food Location ↗](https://github.com/khalinaGamer/school/blob/main/mobile.html)**
+>
+> A responsive restaurant-discovery concept with cuisine filters, ratings, reviews, distance cues, and a rule-based demo assistant. Uses sample restaurant data.
+>
+> `HTML` · `CSS` · `JavaScript`
+
+> **[Student Records Archive ↗](https://github.com/khalinaGamer/school/blob/main/site.html)**
+>
+> A browser-based records manager with IndexedDB storage, student organization, CSV/JSON import, CSV export, and a persistent theme preference.
+>
+> `HTML` · `CSS` · `JavaScript` · `IndexedDB`
 
 No live demos are published yet; project links go directly to their source.
 
