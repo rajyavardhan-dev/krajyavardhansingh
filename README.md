@@ -10,10 +10,8 @@
   <a href="https://github.com/khalinaGamer">
     <img src="https://img.shields.io/badge/GitHub-Explore_my_work-171923?style=for-the-badge&amp;logo=github&amp;logoColor=C4B5FD" alt="Explore my GitHub work" />
   </a>
-  &nbsp;
-  <a href="https://github.com/khalinaGamer/school">
-    <img src="https://img.shields.io/badge/Projects-Browse_repositories-171923?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="Browse project repositories" />
-  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/khalinaGamer/school"><strong>Selected work ↗</strong></a>
 </p>
 
 <p align="center">
