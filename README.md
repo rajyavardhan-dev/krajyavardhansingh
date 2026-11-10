@@ -77,9 +77,12 @@
 <h2 align="center">✦ &nbsp; GITHUB / THE NUMBERS &nbsp; ✦</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khalinaGamer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=22D3EE&text_color=CBD5E1&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=khalinaGamer&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=C4B5FD" alt="GitHub contribution streak" />
+  <a href="https://github.com/khalinaGamer?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://github.com/khalinaGamer?tab=stars"><img src="https://img.shields.io/badge/Stars-See%20what%20I%20star-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="See starred projects" /></a>
+  <a href="https://github.com/khalinaGamer?tab=overview"><img src="https://img.shields.io/badge/Activity-View%20GitHub%20profile-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" /></a>
 </p>
+
+<p align="center"><sub>Live stats cards from third-party services were removed because their image endpoints were failing through GitHub's image proxy. Your GitHub profile remains the reliable source for current repository and contribution data.</sub></p>
 
 <h2 align="center">✦ &nbsp; CONTRIBUTION TRAIL &nbsp; ✦</h2>
 
