@@ -1,53 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
   <defs>
-    <linearGradient id="background" x1="20" y1="20" x2="1180" y2="310" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#11131B"/>
-      <stop offset="1" stop-color="#0B1020"/>
+    <linearGradient id="bg" x1="25" y1="8" x2="1179" y2="359" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0B12"/>
+      <stop offset=".54" stop-color="#10101B"/>
+      <stop offset="1" stop-color="#07111A"/>
     </linearGradient>
-    <linearGradient id="accent" x1="104" y1="260" x2="717" y2="99" gradientUnits="userSpaceOnUse">
+    <linearGradient id="edge" x1="44" y1="307" x2="764" y2="23" gradientUnits="userSpaceOnUse">
       <stop stop-color="#8B5CF6"/>
-      <stop offset="1" stop-color="#58A6FF"/>
+      <stop offset=".53" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#22D3EE"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(-306 209 -159 -233 1080 49)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6547C8" stop-opacity=".25"/>
-      <stop offset="1" stop-color="#6547C8" stop-opacity="0"/>
+    <linearGradient id="name" x1="65" y1="130" x2="590" y2="198" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset=".72" stop-color="#E9E7FF"/>
+      <stop offset="1" stop-color="#A5F3FC"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="matrix(-306 211 -147 -213 1072 84)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#4F46E5" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#60A5FA"/>
-    </linearGradient>
-    <clipPath id="clip">
-      <rect width="1200" height="320" rx="22"/>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#C4B5FD" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="20"/>
     </clipPath>
   </defs>
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="320" rx="22" fill="url(#background)"/>
-    <rect width="1200" height="320" fill="url(#glow)"/>
-    <path d="M0 269.5H1200" stroke="#FFFFFF" stroke-opacity=".06"/>
-    <path d="M0 270C173 219 292 303 474 248C626 202 742 219 884 155C1011 98 1101 103 1200 68" stroke="url(#accent)" stroke-opacity=".22" stroke-width="1.5"/>
-    <path d="M0 288C176 242 294 318 482 266C637 223 756 235 892 176C1019 120 1110 124 1200 91" stroke="url(#accent)" stroke-opacity=".12"/>
-    <circle cx="1026" cy="75" r="168" fill="#6D4AFF" fill-opacity=".035"/>
-    <circle cx="1026" cy="75" r="120" stroke="#A78BFA" stroke-opacity=".1"/>
-    <circle cx="1026" cy="75" r="82" stroke="#60A5FA" stroke-opacity=".12"/>
-    <g opacity=".8">
-      <rect x="855.5" y="106.5" width="231" height="126" rx="12" fill="#0C101A" fill-opacity=".72" stroke="#FFFFFF" stroke-opacity=".13"/>
-      <path d="M856 138.5H1086" stroke="#FFFFFF" stroke-opacity=".1"/>
-      <circle cx="876" cy="122.5" r="3.5" fill="#F87171" fill-opacity=".9"/>
-      <circle cx="889" cy="122.5" r="3.5" fill="#FBBF24" fill-opacity=".9"/>
-      <circle cx="902" cy="122.5" r="3.5" fill="#34D399" fill-opacity=".9"/>
-      <path d="m884 166 10 9-10 9" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M902 184h53" stroke="#94A3B8" stroke-opacity=".72" stroke-width="2" stroke-linecap="round"/>
-      <path d="m884 201 10 9-10 9" stroke="#60A5FA" stroke-opacity=".85" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M902 219h88" stroke="#94A3B8" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="1052" cy="181" r="3" fill="#A78BFA"/>
-      <circle cx="1065" cy="181" r="3" fill="#60A5FA"/>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <rect width="1200" height="360" fill="url(#aura)"/>
+    <rect x="1" y="1" width="1198" height="358" rx="19" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <path d="M48 40V320" stroke="url(#edge)" stroke-width="2"/>
+    <path d="M48 315H606" stroke="url(#edge)" stroke-opacity=".44"/>
+    <circle cx="1007" cy="126" r="151" stroke="#8B5CF6" stroke-opacity=".11"/>
+    <circle cx="1007" cy="126" r="111" stroke="#22D3EE" stroke-opacity=".12"/>
+    <circle cx="1007" cy="126" r="72" stroke="#8B5CF6" stroke-opacity=".14"/>
+    <circle cx="1127" cy="73" r="3" fill="#22D3EE"/>
+    <circle cx="900" cy="259" r="2.5" fill="#A78BFA"/>
+    <circle cx="1087" cy="258" r="2.5" fill="#67E8F9"/>
+    <g>
+      <rect x="833" y="87" width="288" height="184" rx="13" fill="#090C14" fill-opacity=".92" stroke="#A5B4FC" stroke-opacity=".28"/>
+      <path d="M833.5 124.5H1120.5" stroke="#FFFFFF" stroke-opacity=".12"/>
+      <circle cx="854" cy="106" r="4" fill="#FB7185"/>
+      <circle cx="869" cy="106" r="4" fill="#FBBF24"/>
+      <circle cx="884" cy="106" r="4" fill="#34D399"/>
+      <text x="905" y="110" fill="#78839A" font-family="Consolas, monospace" font-size="10">web / ideas.js</text>
+      <text x="856" y="154" fill="#A78BFA" font-family="Consolas, monospace" font-size="13">const</text>
+      <text x="900" y="154" fill="#67E8F9" font-family="Consolas, monospace" font-size="13">direction</text>
+      <text x="972" y="154" fill="#CBD5E1" font-family="Consolas, monospace" font-size="13">= {</text>
+      <text x="874" y="181" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">build:</text>
+      <text x="923" y="181" fill="#F0ABFC" font-family="Consolas, monospace" font-size="12">'for people'</text>
+      <text x="874" y="207" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">learn:</text>
+      <text x="923" y="207" fill="#67E8F9" font-family="Consolas, monospace" font-size="12">'by building'</text>
+      <text x="856" y="234" fill="#CBD5E1" font-family="Consolas, monospace" font-size="13">}</text>
+      <path d="M874 249H1011" stroke="url(#edge)" stroke-width="2" stroke-linecap="round" stroke-opacity=".8"/>
     </g>
-    <rect x="72" y="57" width="35" height="3" rx="1.5" fill="url(#accent)"/>
-    <text x="72" y="91" fill="#A5B4FC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">WEB DEVELOPER  /  BUILDING FOR THE WEB</text>
-    <text x="68" y="166" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="-2">Rajyavardhan Singh</text>
-    <text x="72" y="207" fill="#C5C9D4" font-family="Segoe UI, Arial, sans-serif" font-size="18">WordPress &amp; Shopify  ·  JavaScript  ·  Full-stack in progress</text>
-    <rect x="72" y="242" width="155" height="29" rx="14.5" fill="#FFFFFF" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity=".12"/>
-    <circle cx="89" cy="256.5" r="4" fill="#A78BFA"/>
-    <text x="101" y="261" fill="#D6D9E1" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing=".8">LEARNING BY BUILDING</text>
+    <text x="78" y="79" fill="#A5B4FC" font-family="Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.2">CREATIVE WEB DEVELOPMENT  /  01</text>
+    <text x="73" y="165" fill="url(#name)" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Rajyavardhan Singh</text>
+    <text x="78" y="207" fill="#D1D5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">Web Developer · WordPress &amp; Shopify</text>
+    <text x="78" y="241" fill="#8F98AA" font-family="Segoe UI, Arial, sans-serif" font-size="15">Building useful web experiences. Learning what's next.</text>
+    <rect x="78" y="269" width="144" height="27" rx="13.5" fill="#8B5CF6" fill-opacity=".12" stroke="#A78BFA" stroke-opacity=".25"/>
+    <circle cx="94" cy="282.5" r="4" fill="#22D3EE"/>
+    <text x="106" y="286" fill="#DDD6FE" font-family="Consolas, monospace" font-size="10" font-weight="600" letter-spacing=".8">OPEN TO IDEAS</text>
   </g>
 </svg>
