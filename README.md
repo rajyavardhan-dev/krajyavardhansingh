@@ -1,80 +1,108 @@
-<div align="center">
-  <h1>Rajyavardhan Singh</h1>
-  <p><strong>Web Developer</strong> · WordPress &amp; Shopify</p>
-  <p>Building responsive web experiences and growing every day.</p>
-  <p>
-    <a href="https://github.com/khalinaGamer/school">
-      <img src="https://img.shields.io/badge/Explore_my_work-View_projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
-    </a>
-    <a href="https://github.com/khalinaGamer">
-      <img src="https://img.shields.io/badge/Connect_on-GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <img src="assets/profile-hero.svg" alt="Rajyavardhan Singh — Web developer building thoughtful digital experiences" width="100%" />
+</p>
 
----
+<p align="center">
+  <strong>WEB DEVELOPER</strong> &nbsp;·&nbsp; WordPress, Shopify &amp; the modern web
+  <br />
+  Building responsive websites today. Growing toward full-stack development.
+</p>
+
+<p align="center">
+  <a href="https://github.com/khalinaGamer">GitHub</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/khalinaGamer/school">Selected work</a>
+</p>
+
+<br />
 
 ## About
 
-I'm a web developer with **6+ months of experience**, currently working with **WordPress and Shopify**. I enjoy turning ideas into responsive websites and web applications, with a focus on practical, easy-to-use experiences.
+I'm **Rajyavardhan Singh**, a web developer with **6+ months of experience**, currently working with WordPress and Shopify. I care about clear, responsive interfaces and enjoy turning practical ideas into useful web experiences.
 
-I'm strengthening my JavaScript skills and learning full-stack development by building and iterating on real projects.
+My current direction is deliberate: strengthen my JavaScript foundations, keep building on the web, and work toward full-stack development.
 
-## Technical skills
+## Stack
 
-**Web fundamentals**
+**Web fundamentals & version control**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Responsive%20Design-334155?style=for-the-badge" alt="Responsive web design" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" height="38" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS3" height="38" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" height="38" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" height="38" />
+</p>
 
-**Platforms & tools**
+**Commerce & site building**
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-<img src="https://img.shields.io/badge/Liquid-6B7280?style=for-the-badge" alt="Liquid" />
+<p>
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/shopify/95BF47" alt="Shopify" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" alt="WooCommerce" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Liquid-6B7280?style=flat-square" alt="Liquid" />
+</p>
 
 ## Selected work
 
-### [Food Location](https://github.com/khalinaGamer/school/blob/main/mobile.html)
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <strong><a href="https://github.com/khalinaGamer/school/blob/main/mobile.html">Food Location</a></strong>
+        <br /><br />
+        A responsive restaurant-discovery concept with cuisine filters, ratings, reviews, distance cues, and a rule-based demo assistant. Uses sample restaurant data.
+        <br /><br />
+        <sub>HTML · CSS · JavaScript</sub>
+        <br />
+        <sub><a href="https://github.com/khalinaGamer/school/blob/main/mobile.html">View source ↗</a></sub>
+      </td>
+      <td width="50%" valign="top">
+        <strong><a href="https://github.com/khalinaGamer/school/blob/main/site.html">Student Records Archive</a></strong>
+        <br /><br />
+        A browser-based records manager with IndexedDB storage, student organization, CSV/JSON import, CSV export, and a persistent theme preference.
+        <br /><br />
+        <sub>HTML · CSS · JavaScript · IndexedDB</sub>
+        <br />
+        <sub><a href="https://github.com/khalinaGamer/school/blob/main/site.html">View source ↗</a></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-A restaurant-discovery front-end concept with cuisine filters, ratings, reviews, distance cues, and a rule-based demo assistant. Built as a responsive web experience with sample restaurant data.
+No live demos are published yet; project links go directly to their source.
 
-### [Student Records Archive](https://github.com/khalinaGamer/school/blob/main/site.html)
+## GitHub activity
 
-A browser-based student records manager with IndexedDB persistence, record organization, CSV/JSON import, CSV export, and a theme toggle.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalinaGamer&amp;theme=github_dark" alt="GitHub statistics for khalinaGamer" width="100%" />
+</p>
 
-### [JavaScript Practice](https://github.com/khalinaGamer/school/tree/main)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khalinaGamer&amp;theme=transparent&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=8B5CF6&amp;currStreakLabel=C9D1D9" alt="GitHub contribution streak for khalinaGamer" />
+</p>
 
-A growing set of exercises covering JavaScript fundamentals, including functions, conditionals, loops, arrays, and objects.
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/khalinaGamer" alt="GitHub contribution activity by day for khalinaGamer" width="100%" />
+</p>
 
-## Currently learning
+## What I'm building toward
 
-- Deepening my JavaScript fundamentals
-- Learning full-stack development and how the pieces of a web application fit together
-- Continuing to build with WordPress and Shopify
+- **Currently learning:** stronger JavaScript fundamentals and full-stack development.
+- **Building:** practical web interfaces and browser-based projects while I learn.
+- **Goal:** grow into a full-stack developer by steadily shipping useful work and deepening my understanding of the web.
 
-## GitHub at a glance
+<hr />
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalinaGamer&theme=github_dark" alt="GitHub contribution and profile summary for Rajyavardhan Singh" width="100%" />
+<p align="center">
+  <strong>Thoughtful work. Consistent progress.</strong>
   <br />
-  <img src="https://streak-stats.demolab.com?user=khalinaGamer&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=C9D1D9" alt="GitHub contribution streak" />
-</div>
-
-## Contribution activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/khalinaGamer" alt="GitHub contribution graph for khalinaGamer" width="100%" />
-</div>
-
-## Let's connect
-
-Interested in my work or have a project in mind? [Reach out through GitHub](https://github.com/khalinaGamer).
-
-<div align="center">
-  <sub>Thanks for stopping by. I'm always learning by building, one thoughtful iteration at a time.</sub>
-</div>
+  <sub>Thanks for visiting. Explore the projects or connect with me on <a href="https://github.com/khalinaGamer">GitHub</a>.</sub>
+</p>
