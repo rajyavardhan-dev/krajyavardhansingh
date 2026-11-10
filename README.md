@@ -82,7 +82,7 @@
   <a href="https://github.com/khalinaGamer?tab=overview"><img src="https://img.shields.io/badge/Activity-View%20GitHub%20profile-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" /></a>
 </p>
 
-<p align="center"><sub>Live stats cards from third-party services were removed because their image endpoints were failing through GitHub's image proxy. Your GitHub profile remains the reliable source for current repository and contribution data.</sub></p>
+<p align="center"><i>Building, learning and improving one project at a time.</i></p>
 
 <h2 align="center">✦ &nbsp; CONTRIBUTION TRAIL &nbsp; ✦</h2>
 
